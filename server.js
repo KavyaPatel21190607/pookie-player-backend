@@ -19,15 +19,15 @@ connectDB();
 // Initialize Express App
 const app = express();
 
-// Middleware - Allow all origins for deployment
-app.use(cors({
-  origin: true, // Allow all origins
-  credentials: true,
-  methods: ['GET', 'POST', 'PUT', 'DELETE', 'OPTIONS'],
-  allowedHeaders: ['Content-Type', 'Authorization']
-}));
-app.use(express.json({ limit: '100mb' }));
-app.use(express.urlencoded({ extended: true, limit: '100mb' }));
+// Middleware
+// Temporarily allow all origins to avoid CORS blocking during initial deployment.
+// NOTE: This is permissive and should be tightened after verification.
+app.use(cors({ origin: true, credentials: true }));
+
+// Remove explicit body size limits per user request. If you later need limits,
+// reintroduce a safe `limit` value (for example '10mb').
+app.use(express.json());
+app.use(express.urlencoded({ extended: true }));
 
 // API Routes
 app.use('/api/auth', authRoutes);
