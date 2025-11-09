@@ -1,0 +1,242 @@
+{
+  "id": "10",
+  "title": "Wishes(Reel-Version)",
+  "artist": "Unknown Artist",
+  "coverColor": "from-pink-300 to-purple-500",
+  "duration": 30,
+  "lyrics": [
+    {
+      "timestamp": 0,
+      "originalLine": "Hoke tetho duur mein",
+      "parsedTokens": [
+        { "type": "element", "symbol": "Ho", "name": "Holmium", "number": 67 },
+        { "type": "element", "symbol": "K", "name": "Potassium", "number": 19 },
+        { "type": "space", "value": " " },
+        { "type": "element", "symbol": "Te", "name": "Tellurium", "number": 52 },
+        { "type": "element", "symbol": "Th", "name": "Thorium", "number": 90 },
+        { "type": "element", "symbol": "O", "name": "Oxygen", "number": 8 },
+        { "type": "space", "value": " " },
+        { "type": "element", "symbol": "Du", "name": "Dubnium", "number": 105 },
+        { "type": "element", "symbol": "Ur", "name": "Uranium", "number": 92 },
+        { "type": "space", "value": " " },
+        { "type": "element", "symbol": "Me", "name": "Mendelevium", "number": 101 },
+        { "type": "element", "symbol": "In", "name": "Indium", "number": 49 }
+      ]
+    },
+    {
+      "timestamp": 3,
+      "originalLine": "Khoya apne aap nu",
+      "parsedTokens": [
+        { "type": "element", "symbol": "Kr", "name": "Krypton", "number": 36 },
+        { "type": "element", "symbol": "O", "name": "Oxygen", "number": 8 },
+        { "type": "element", "symbol": "Ya", "name": "Yttrium", "number": 39 },
+        { "type": "space", "value": " " },
+        { "type": "element", "symbol": "AC", "name": "Actinium", "number": 89 },
+        { "type": "element", "symbol": "Ne", "name": "Neon", "number": 10 },
+        { "type": "space", "value": " " },
+        { "type": "element", "symbol": "Aa", "name": "Actinium", "number": 89 },
+        { "type": "element", "symbol": "P", "name": "Phosphorus", "number": 15 },
+        { "type": "space", "value": " " },
+        { "type": "element", "symbol": "Nu", "name": "Neptunium", "number": 93 }
+      ]
+    },
+    {
+      "timestamp": 5,
+      "originalLine": "Adda hissa mere dil da",
+      "parsedTokens": [
+        { "type": "element", "symbol": "At", "name": "Astatine", "number": 85 },
+        { "type": "element", "symbol": "Da", "name": "Dubnium", "number": 105 },
+        { "type": "space", "value": " " },
+        { "type": "element", "symbol": "Hi", "name": "Hydrogen", "number": 1 },
+        { "type": "element", "symbol": "Ss", "name": "Sulfur", "number": 16 },
+        { "type": "element", "symbol": "A", "name": "Actinium", "number": 89 },
+        { "type": "space", "value": " " },
+        { "type": "element", "symbol": "Me", "name": "Mendelevium", "number": 101 },
+        { "type": "element", "symbol": "Re", "name": "Rhenium", "number": 75 },
+        { "type": "space", "value": " " },
+        { "type": "element", "symbol": "Di", "name": "Darmstadtium", "number": 110 },
+        { "type": "element", "symbol": "Li", "name": "Lithium", "number": 3 },
+        { "type": "space", "value": " " },
+        { "type": "element", "symbol": "Db", "name": "Dubnium", "number": 105 }
+      ]
+    },
+    {
+      "timestamp": 8,
+      "originalLine": "Hoeya tere khilaaf kyun",
+      "parsedTokens": [
+        { "type": "element", "symbol": "Ho", "name": "Holmium", "number": 67 },
+        { "type": "element", "symbol": "Ey", "name": "Einsteinium", "number": 99 },
+        { "type": "space", "value": " " },
+        { "type": "element", "symbol": "Te", "name": "Tellurium", "number": 52 },
+        { "type": "element", "symbol": "Re", "name": "Rhenium", "number": 75 },
+        { "type": "space", "value": " " },
+        { "type": "element", "symbol": "Kr", "name": "Krypton", "number": 36 },
+        { "type": "element", "symbol": "I", "name": "Iodine", "number": 53 },
+        { "type": "element", "symbol": "La", "name": "Lanthanum", "number": 57 },
+        { "type": "element", "symbol": "Af", "name": "Actinium-Fluorine", "number": 89 }
+      ]
+    },
+    {
+      "timestamp": 10,
+      "originalLine": "Adda dil chaunda ae tenu",
+      "parsedTokens": [
+        { "type": "element", "symbol": "Ad", "name": "Astatine", "number": 85 },
+        { "type": "element", "symbol": "Da", "name": "Dubnium", "number": 105 },
+        { "type": "space", "value": " " },
+        { "type": "element", "symbol": "Di", "name": "Darmstadtium", "number": 110 },
+        { "type": "element", "symbol": "L", "name": "Lithium", "number": 3 },
+        { "type": "space", "value": " " },
+        { "type": "element", "symbol": "Ch", "name": "Chromium", "number": 24 },
+        { "type": "element", "symbol": "Au", "name": "Gold", "number": 79 },
+        { "type": "element", "symbol": "Nd", "name": "Neodymium", "number": 60 },
+        { "type": "element", "symbol": "A", "name": "Actinium", "number": 89 },
+        { "type": "space", "value": " " },
+        { "type": "element", "symbol": "Ae", "name": "Astatine", "number": 85 },
+        { "type": "space", "value": " " },
+        { "type": "element", "symbol": "Te", "name": "Tellurium", "number": 52 },
+        { "type": "element", "symbol": "Nu", "name": "Neptunium", "number": 93 }
+      ]
+    },
+    {
+      "timestamp": 13,
+      "originalLine": "Karni chaunda baat kyun",
+      "parsedTokens": [
+        { "type": "element", "symbol": "K", "name": "Potassium", "number": 19 },
+        { "type": "element", "symbol": "Rn", "name": "Radon", "number": 86 },
+        { "type": "space", "value": " " },
+        { "type": "element", "symbol": "Ch", "name": "Chromium", "number": 24 },
+        { "type": "element", "symbol": "Au", "name": "Gold", "number": 79 },
+        { "type": "element", "symbol": "Nd", "name": "Neodymium", "number": 60 },
+        { "type": "element", "symbol": "A", "name": "Actinium", "number": 89 },
+        { "type": "space", "value": " " },
+        { "type": "element", "symbol": "Ba", "name": "Barium", "number": 56 },
+        { "type": "element", "symbol": "At", "name": "Astatine", "number": 85 },
+        { "type": "space", "value": " " },
+        { "type": "element", "symbol": "Ky", "name": "Potassium", "number": 39 },
+        { "type": "element", "symbol": "U", "name": "Uranium", "number": 92 },
+        { "type": "element", "symbol": "N", "name": "Nitrogen", "number": 7 }
+      ]
+    },
+    {
+      "timestamp": 15,
+      "originalLine": "Tareyaan di roshni de wangu",
+      "parsedTokens": [
+        { "type": "element", "symbol": "Ta", "name": "Tantalum", "number": 73 },
+        { "type": "element", "symbol": "Re", "name": "Rhenium", "number": 75 },
+        { "type": "element", "symbol": "Y", "name": "Yttrium", "number": 39 },
+        { "type": "element", "symbol": "A", "name": "Actinium", "number": 89 },
+        { "type": "element", "symbol": "N", "name": "Nitrogen", "number": 7 },
+        { "type": "space", "value": " " },
+        { "type": "element", "symbol": "Di", "name": "Darmstadtium", "number": 110 },
+        { "type": "space", "value": " " },
+        { "type": "element", "symbol": "Ro", "name": "Rhodium", "number": 45 },
+        { "type": "element", "symbol": "Sh", "name": "Sulfur", "number": 16 },
+        { "type": "element", "symbol": "Ni", "name": "Nickel", "number": 28 },
+        { "type": "space", "value": " " },
+        { "type": "element", "symbol": "De", "name": "Deuterium", "number": 1 },
+        { "type": "space", "value": " " },
+        { "type": "element", "symbol": "Wa", "name": "Tungsten", "number": 74 },
+        { "type": "element", "symbol": "Ng", "name": "Nitrogen", "number": 31 },
+        { "type": "element", "symbol": "U", "name": "Uranium", "number": 92 }
+      ]
+    },
+    {
+      "timestamp": 18,
+      "originalLine": "Gal nal laaja raat nu",
+      "parsedTokens": [
+        { "type": "element", "symbol": "Ga", "name": "Gallium", "number": 31 },
+        { "type": "element", "symbol": "L", "name": "Lithium", "number": 3 },
+        { "type": "space", "value": " " },
+        { "type": "element", "symbol": "Na", "name": "Sodium", "number": 11 },
+        { "type": "element", "symbol": "L", "name": "Lithium", "number": 3 },
+        { "type": "space", "value": " " },
+        { "type": "element", "symbol": "La", "name": "Lanthanum", "number": 57 },
+        { "type": "element", "symbol": "A", "name": "Actinium", "number": 89 },
+        { "type": "space", "value": " " },
+        { "type": "element", "symbol": "Ra", "name": "Radium", "number": 88 },
+        { "type": "element", "symbol": "At", "name": "Astatine", "number": 85 },
+        { "type": "space", "value": " " },
+        { "type": "element", "symbol": "Nu", "name": "Neptunium", "number": 93 }
+      ]
+    },
+    {
+      "timestamp": 20,
+      "originalLine": "Dil mere nu samjhaja",
+      "parsedTokens": [
+        { "type": "element", "symbol": "Di", "name": "Darmstadtium", "number": 110 },
+        { "type": "element", "symbol": "L", "name": "Lithium", "number": 3 },
+        { "type": "space", "value": " " },
+        { "type": "element", "symbol": "Me", "name": "Mendelevium", "number": 101 },
+        { "type": "element", "symbol": "Re", "name": "Rhenium", "number": 75 },
+        { "type": "space", "value": " " },
+        { "type": "element", "symbol": "Nu", "name": "Neptunium", "number": 93 },
+        { "type": "space", "value": " " },
+        { "type": "element", "symbol": "Sa", "name": "Samarium", "number": 62 },
+        { "type": "element", "symbol": "Mj", "name": "Molybdenum-Jod", "number": 42 },
+        { "type": "element", "symbol": "Ha", "name": "Hafnium", "number": 72 },
+        { "type": "element", "symbol": "Ja", "name": "Jodium", "number": 53 }
+      ]
+    },
+    {
+      "timestamp": 23,
+      "originalLine": "Hathan wich hath tu paaja",
+      "parsedTokens": [
+        { "type": "element", "symbol": "Ha", "name": "Hafnium", "number": 72 },
+        { "type": "element", "symbol": "Th", "name": "Thorium", "number": 90 },
+        { "type": "element", "symbol": "Ac", "name": "Actinium", "number": 89 },
+        { "type": "space", "value": " " },
+        { "type": "element", "symbol": "Wi", "name": "Tungsten-Iodine", "number": 74 },
+        { "type": "element", "symbol": "Ch", "name": "Chromium-Hydrogen", "number": 24 },
+        { "type": "space", "value": " " },
+        { "type": "element", "symbol": "Ha", "name": "Hafnium", "number": 72 },
+        { "type": "element", "symbol": "Th", "name": "Thorium", "number": 90 },
+        { "type": "space", "value": " " },
+        { "type": "element", "symbol": "Tu", "name": "Thulium", "number": 69 },
+        { "type": "space", "value": " " },
+        { "type": "element", "symbol": "Pa", "name": "Protactinium", "number": 91 },
+        { "type": "element", "symbol": "Aj", "name": "Actinium-Jodium", "number": 89 },
+        { "type": "element", "symbol": "A", "name": "Actinium", "number": 89 }
+      ]
+    },
+    {
+      "timestamp": 25,
+      "originalLine": "Pehlan jo dekhi nahi mein",
+      "parsedTokens": [
+        { "type": "element", "symbol": "Pe", "name": "Palladium", "number": 46 },
+        { "type": "element", "symbol": "Hl", "name": "Holmium", "number": 71 },
+        { "type": "space", "value": " " },
+        { "type": "element", "symbol": "Jo", "name": "Jodium", "number": 53 },
+        { "type": "space", "value": " " },
+        { "type": "element", "symbol": "De", "name": "Deuterium", "number": 1 },
+        { "type": "element", "symbol": "K", "name": "Potassium", "number": 19 },
+        { "type": "element", "symbol": "Hi", "name": "Hydrogen", "number": 1 },
+        { "type": "space", "value": " " },
+        { "type": "element", "symbol": "Ne", "name": "Neon", "number": 10 },
+        { "type": "element", "symbol": "Hi", "name": "Hydrogen", "number": 1 },
+        { "type": "space", "value": " " },
+        { "type": "element", "symbol": "Me", "name": "Mendelevium", "number": 101 },
+        { "type": "element", "symbol": "In", "name": "Indium", "number": 49 }
+      ]
+    },
+    {
+      "timestamp": 28,
+      "originalLine": "Aaisi duniya tu dikhaa ja",
+      "parsedTokens": [
+        { "type": "element", "symbol": "Ai", "name": "Astatine", "number": 85 },
+        { "type": "element", "symbol": "Si", "name": "Silicon", "number": 14 },
+        { "type": "space", "value": " " },
+        { "type": "element", "symbol": "Du", "name": "Dubnium", "number": 105 },
+        { "type": "element", "symbol": "Ni", "name": "Nickel", "number": 28 },
+        { "type": "element", "symbol": "Ya", "name": "Yttrium", "number": 39 },
+        { "type": "space", "value": " " },
+        { "type": "element", "symbol": "Tu", "name": "Thulium", "number": 69 },
+        { "type": "space", "value": " " },
+        { "type": "element", "symbol": "Di", "name": "Darmstadtium", "number": 110 },
+        { "type": "element", "symbol": "Kr", "name": "Krypton", "number": 36 },
+        { "type": "element", "symbol": "Aa", "name": "Actinium", "number": 89 },
+        { "type": "space", "value": " " },
+        { "type": "element", "symbol": "Ja", "name": "Jodium", "number": 53 }
+      ]
+    }
+  ]
+}

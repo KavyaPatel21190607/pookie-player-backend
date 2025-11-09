@@ -1,0 +1,179 @@
+{
+  "id": "5",
+  "title": "Diwaneeyat(Reel-Version)",
+  "artist": "Periodic Emotions",
+  "coverColor": "from-orange-300 to-red-400",
+  "duration": 36,
+  "lyrics": [
+    {
+      "timestamp": 0,
+      "originalLine": "Tere Dil Pe Haq Mera Hai",
+      "parsedTokens": [
+        { "type": "element", "symbol": "Te", "name": "Tellurium", "number": 52 },
+        { "type": "element", "symbol": "Re", "name": "Rhenium", "number": 75 },
+        { "type": "space", "value": " " },
+        { "type": "element", "symbol": "Di", "name": "Darmstadtium", "number": 110 },
+        { "type": "element", "symbol": "L", "name": "Lithium", "number": 3 },
+        { "type": "space", "value": " " },
+        { "type": "element", "symbol": "P", "name": "Phosphorus", "number": 15 },
+        { "type": "element", "symbol": "E", "name": "Einsteinium", "number": 99 },
+        { "type": "space", "value": " " },
+        { "type": "element", "symbol": "H", "name": "Hydrogen", "number": 1 },
+        { "type": "element", "symbol": "A", "name": "Actinium", "number": 89 },
+        { "type": "element", "symbol": "Q", "name": "Unnilquadium", "number": 104 },
+        { "type": "space", "value": " " },
+        { "type": "element", "symbol": "Me", "name": "Mendelevium", "number": 101 },
+        { "type": "element", "symbol": "Ra", "name": "Radium", "number": 88 },
+        { "type": "space", "value": " " },
+        { "type": "element", "symbol": "H", "name": "Hydrogen", "number": 1 },
+        { "type": "element", "symbol": "Ai", "name": "Actinium", "number": 89 }
+      ]
+    },
+    {
+      "timestamp": 4,
+      "originalLine": "Tu Sanam Beshaq Mera",
+      "parsedTokens": [
+        { "type": "element", "symbol": "Tu", "name": "Tungsten", "number": 74 },
+        { "type": "space", "value": " " },
+        { "type": "element", "symbol": "S", "name": "Sulfur", "number": 16 },
+        { "type": "element", "symbol": "An", "name": "Actinium", "number": 89 },
+        { "type": "element", "symbol": "Am", "name": "Americium", "number": 95 },
+        { "type": "space", "value": " " },
+        { "type": "element", "symbol": "Be", "name": "Beryllium", "number": 4 },
+        { "type": "element", "symbol": "S", "name": "Sulfur", "number": 16 },
+        { "type": "element", "symbol": "H", "name": "Hydrogen", "number": 1 },
+        { "type": "element", "symbol": "A", "name": "Actinium", "number": 89 },
+        { "type": "element", "symbol": "Q", "name": "Unnilquadium", "number": 104 },
+        { "type": "space", "value": " " },
+        { "type": "element", "symbol": "Me", "name": "Mendelevium", "number": 101 },
+        { "type": "element", "symbol": "Ra", "name": "Radium", "number": 88 }
+      ]
+    },
+    {
+      "timestamp": 8,
+      "originalLine": "Fir Lakeerein Ho Ya Na Ho",
+      "parsedTokens": [
+        { "type": "element", "symbol": "F", "name": "Fluorine", "number": 9 },
+        { "type": "element", "symbol": "Ir", "name": "Iridium", "number": 77 },
+        { "type": "space", "value": " " },
+        { "type": "element", "symbol": "La", "name": "Lanthanum", "number": 57 },
+        { "type": "element", "symbol": "Ke", "name": "Potassium", "number": 19 },
+        { "type": "element", "symbol": "Er", "name": "Erbium", "number": 68 },
+        { "type": "element", "symbol": "In", "name": "Indium", "number": 49 },
+        { "type": "element", "symbol": "Ho", "name": "Holmium", "number": 67 },
+        { "type": "space", "value": " " },
+        { "type": "element", "symbol": "Y", "name": "Yttrium", "number": 39 },
+        { "type": "element", "symbol": "A", "name": "Actinium", "number": 89 },
+        { "type": "space", "value": " " },
+        { "type": "element", "symbol": "Na", "name": "Sodium", "number": 11 },
+        { "type": "element", "symbol": "Ho", "name": "Holmium", "number": 67 }
+      ]
+    },
+    {
+      "timestamp": 11,
+      "originalLine": "Tu Mera Hai Tu Mera Hai",
+      "parsedTokens": [
+        { "type": "element", "symbol": "Tu", "name": "Tungsten", "number": 74 },
+        { "type": "space", "value": " " },
+        { "type": "element", "symbol": "Me", "name": "Mendelevium", "number": 101 },
+        { "type": "element", "symbol": "Ra", "name": "Radium", "number": 88 },
+        { "type": "space", "value": " " },
+        { "type": "element", "symbol": "H", "name": "Hydrogen", "number": 1 },
+        { "type": "element", "symbol": "Ai", "name": "Actinium", "number": 89 },
+        { "type": "space", "value": " " },
+        { "type": "element", "symbol": "Tu", "name": "Tungsten", "number": 74 },
+        { "type": "space", "value": " " },
+        { "type": "element", "symbol": "Me", "name": "Mendelevium", "number": 101 },
+        { "type": "element", "symbol": "Ra", "name": "Radium", "number": 88 },
+        { "type": "space", "value": " " },
+        { "type": "element", "symbol": "H", "name": "Hydrogen", "number": 1 },
+        { "type": "element", "symbol": "Ai", "name": "Actinium", "number": 89 }
+      ]
+    },
+    {
+      "timestamp": 15,
+      "originalLine": "Tere Dil Pe Haq Mera Hai",
+      "parsedTokens": [
+        { "type": "element", "symbol": "Te", "name": "Tellurium", "number": 52 },
+        { "type": "element", "symbol": "Re", "name": "Rhenium", "number": 75 },
+        { "type": "space", "value": " " },
+        { "type": "element", "symbol": "Di", "name": "Darmstadtium", "number": 110 },
+        { "type": "element", "symbol": "L", "name": "Lithium", "number": 3 },
+        { "type": "space", "value": " " },
+        { "type": "element", "symbol": "P", "name": "Phosphorus", "number": 15 },
+        { "type": "element", "symbol": "E", "name": "Einsteinium", "number": 99 },
+        { "type": "space", "value": " " },
+        { "type": "element", "symbol": "H", "name": "Hydrogen", "number": 1 },
+        { "type": "element", "symbol": "A", "name": "Actinium", "number": 89 },
+        { "type": "element", "symbol": "Q", "name": "Unnilquadium", "number": 104 },
+        { "type": "space", "value": " " },
+        { "type": "element", "symbol": "Me", "name": "Mendelevium", "number": 101 },
+        { "type": "element", "symbol": "Ra", "name": "Radium", "number": 88 },
+        { "type": "space", "value": " " },
+        { "type": "element", "symbol": "H", "name": "Hydrogen", "number": 1 },
+        { "type": "element", "symbol": "Ai", "name": "Actinium", "number": 89 }
+      ]
+    },
+    {
+      "timestamp": 18,
+      "originalLine": "Tu Sanam Beshaq Mera",
+      "parsedTokens": [
+        { "type": "element", "symbol": "Tu", "name": "Tungsten", "number": 74 },
+        { "type": "space", "value": " " },
+        { "type": "element", "symbol": "S", "name": "Sulfur", "number": 16 },
+        { "type": "element", "symbol": "An", "name": "Actinium", "number": 89 },
+        { "type": "element", "symbol": "Am", "name": "Americium", "number": 95 },
+        { "type": "space", "value": " " },
+        { "type": "element", "symbol": "Be", "name": "Beryllium", "number": 4 },
+        { "type": "element", "symbol": "S", "name": "Sulfur", "number": 16 },
+        { "type": "element", "symbol": "H", "name": "Hydrogen", "number": 1 },
+        { "type": "element", "symbol": "A", "name": "Actinium", "number": 89 },
+        { "type": "element", "symbol": "Q", "name": "Unnilquadium", "number": 104 },
+        { "type": "space", "value": " " },
+        { "type": "element", "symbol": "Me", "name": "Mendelevium", "number": 101 },
+        { "type": "element", "symbol": "Ra", "name": "Radium", "number": 88 }
+      ]
+    },
+    {
+      "timestamp": 21,
+      "originalLine": "Fir Lakeerein Ho Ya Na Ho",
+      "parsedTokens": [
+        { "type": "element", "symbol": "F", "name": "Fluorine", "number": 9 },
+        { "type": "element", "symbol": "Ir", "name": "Iridium", "number": 77 },
+        { "type": "space", "value": " " },
+        { "type": "element", "symbol": "La", "name": "Lanthanum", "number": 57 },
+        { "type": "element", "symbol": "Ke", "name": "Potassium", "number": 19 },
+        { "type": "element", "symbol": "Er", "name": "Erbium", "number": 68 },
+        { "type": "element", "symbol": "In", "name": "Indium", "number": 49 },
+        { "type": "element", "symbol": "Ho", "name": "Holmium", "number": 67 },
+        { "type": "space", "value": " " },
+        { "type": "element", "symbol": "Y", "name": "Yttrium", "number": 39 },
+        { "type": "element", "symbol": "A", "name": "Actinium", "number": 89 },
+        { "type": "space", "value": " " },
+        { "type": "element", "symbol": "Na", "name": "Sodium", "number": 11 },
+        { "type": "element", "symbol": "Ho", "name": "Holmium", "number": 67 }
+      ]
+    },
+    {
+      "timestamp": 25,
+      "originalLine": "Tu Mera Hai Tu Mera Hai",
+      "parsedTokens": [
+        { "type": "element", "symbol": "Tu", "name": "Tungsten", "number": 74 },
+        { "type": "space", "value": " " },
+        { "type": "element", "symbol": "Me", "name": "Mendelevium", "number": 101 },
+        { "type": "element", "symbol": "Ra", "name": "Radium", "number": 88 },
+        { "type": "space", "value": " " },
+        { "type": "element", "symbol": "H", "name": "Hydrogen", "number": 1 },
+        { "type": "element", "symbol": "Ai", "name": "Actinium", "number": 89 },
+        { "type": "space", "value": " " },
+        { "type": "element", "symbol": "Tu", "name": "Tungsten", "number": 74 },
+        { "type": "space", "value": " " },
+        { "type": "element", "symbol": "Me", "name": "Mendelevium", "number": 101 },
+        { "type": "element", "symbol": "Ra", "name": "Radium", "number": 88 },
+        { "type": "space", "value": " " },
+        { "type": "element", "symbol": "H", "name": "Hydrogen", "number": 1 },
+        { "type": "element", "symbol": "Ai", "name": "Actinium", "number": 89 }
+      ]
+    }
+  ]
+}
